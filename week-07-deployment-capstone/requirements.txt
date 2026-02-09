@@ -1,0 +1,40 @@
+# Week 7: Deployment Requirements
+# Install with: pip install -r requirements.txt
+
+# Core Data Science
+pandas==1.5.3
+numpy==1.24.3
+scikit-learn==1.3.0
+
+# Web Framework
+streamlit==1.28.0
+
+# Alternative: FastAPI (uncomment if using FastAPI instead)
+# fastapi==0.104.1
+# uvicorn==0.24.0
+# pydantic==2.0.0
+
+# Data Processing
+scipy==1.11.2
+
+# Model Serialization
+joblib==1.3.2
+
+# Visualization (for notebooks)
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# Utilities
+python-dotenv==1.0.0
+requests==2.31.0
+
+# Testing
+pytest==7.4.0
+pytest-cov==4.1.0
+
+# Code Quality
+flake8==6.1.0
+black==23.9.1
+
+# Logging & Monitoring
+python-json-logger==2.0.7
